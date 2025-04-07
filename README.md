@@ -10,6 +10,8 @@
 
 **• Auto Clear Task**
 
+**• Supports Multi Account**
+
 **• Supports Proxy w/o Proxy**
 
 ## Requirements
