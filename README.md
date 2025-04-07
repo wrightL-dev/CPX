@@ -42,6 +42,7 @@ Before running this project, make sure you have installed:
    privatekey: abcdef
    privatekey: abcdef
    privatekey: abcdef
+Note: Use Private Key Solana
 
 4. **If you want to use a proxy, edit the proxy.txt file. Example:**
    ```plaintext
