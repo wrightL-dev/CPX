@@ -5,8 +5,11 @@
 **Fitur:**
 
 **• Auto Connect**
+
 **• Auto Sync File**
+
 **• Auto Clear Task**
+
 **• Supports Proxy w/o Proxy**
 
 ## Requirements
