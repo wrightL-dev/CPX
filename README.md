@@ -49,8 +49,8 @@ Note: Use Private Key Solana
    http://username:password@ip:port
    http://username:password@ip:port
    http://username:password@ip:port
-   http://username:password@ip:port
-   http://username:password@ip:port
+   socks4://username:password@ip:port
+   socks4://username:password@ip:port
 
 5. **Run the script:**
    ```plaintext
