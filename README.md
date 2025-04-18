@@ -32,7 +32,7 @@ Before running this project, make sure you have installed:
 2. **Install the required packages:**
 
     ```plaintext
-    npm install axios user-agents @solana/web3.js bs58 bip39 ed25519-hd-key tweetnacl https-proxy-agent
+    npm install axios user-agents @solana/web3.js bs58 bip39 ed25519-hd-key tweetnacl https-proxy-agent socks-proxy-agent
 
 3. **Add your accounts in the accounts.txt file. Example:**
 
